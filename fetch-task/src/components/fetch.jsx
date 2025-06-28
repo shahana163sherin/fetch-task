@@ -1,5 +1,7 @@
 
 import { useEffect,useState } from "react";
+import './fetch.css'
+
 function Fetch(){
     const [state,setState]=useState([])
 
